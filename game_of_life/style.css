@@ -1,0 +1,17 @@
+/* Styles go here */
+
+.boxes > li {
+  float: left;
+  padding: 20px;
+  list-style: none;
+  border: 1px solid #000;
+}
+.alive {
+  background: #ddd;
+}
+td {
+  background: #000;
+  padding: 10px;
+  margin: 10px;
+  border: 1px solid #000;
+}
